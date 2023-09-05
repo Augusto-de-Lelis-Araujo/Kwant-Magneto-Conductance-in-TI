@@ -1,5 +1,5 @@
 # Copyright (C) 2023 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-## Article available in [Physical Review B](https://doi.org/10.1103/PhysRevB.103.205124) or [Arxiv](https://arxiv.org/abs/2010.09404): Fabry-Pérot resonant vortices and magnetoconductance in topological insulator constrictions with magnetic barriers
+## Article available in [Physical Review B](https://doi.org/10.1103/PhysRevB.103.205124) and [Arxiv](https://arxiv.org/abs/2010.09404): Fabry-Pérot resonant vortices and magnetoconductance in topological insulator constrictions with magnetic barriers
 
 ### Abstract of the article:
 
